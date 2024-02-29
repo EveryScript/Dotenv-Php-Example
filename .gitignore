@@ -1,0 +1,4 @@
+# Ignore this
+composer.json
+composer.lock
+vendor
